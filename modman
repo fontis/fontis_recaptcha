@@ -1,0 +1,9 @@
+src/app/code/community/Fontis/Recaptcha                                app/code/community/Fontis/Recaptcha
+src/app/design/frontend/base/default/layout/fontis/recaptcha.xml       app/design/frontend/base/default/layout/fontis/recaptcha.xml
+src/app/design/frontend/base/default/template/fontis/recaptcha         app/design/frontend/base/default/template/fontis/recaptcha
+src/app/design/frontend/default/default/layout/fontis/recaptcha.xml    app/design/frontend/default/default/layout/fontis/recaptcha.xml
+src/app/design/frontend/default/default/template/fontis/recaptcha      app/design/frontend/default/default/template/fontis/recaptcha
+src/app/etc/modules/Fontis_Recaptcha.xml                               app/etc/modules/Fontis_Recaptcha.xml
+
+src/skin/frontend/base/default/fontis/recaptcha                        skin/frontend/base/default/fontis/recaptcha
+src/skin/frontend/default/default/fontis/recaptcha                     skin/frontend/default/default/fontis/recaptcha
