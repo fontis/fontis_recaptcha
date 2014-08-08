@@ -52,8 +52,8 @@
     </customer_account_create>
 
     <review_product_list>
-        <block name="product.review.form" >
-            <block type="core/template" name="recaptcha.box" as="recaptcha_box" template="fontis/recaptcha/recaptcha.phtml"/>
-        </block>
+		<reference name="product.review.form" >
+			<block type="core/template" name="recaptcha.box" as="recaptcha_box" template="fontis/recaptcha/recaptcha.phtml"/>
+		</reference>
     </review_product_list>
 </layout>
