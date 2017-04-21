@@ -124,28 +124,4 @@
             </translation>
         </fontis_recaptcha>
     </default>
-    <adminhtml>
-        <acl>
-            <resources>
-                <all>
-                    <title>Allow Everything</title>
-                </all>
-                <admin>
-                    <children>
-                        <system>
-                            <children>
-                                <config>
-                                    <children>
-                                        <fontis_recaptcha>
-                                            <title>Recaptcha</title>
-                                        </fontis_recaptcha>
-                                    </children>
-                                </config>
-                            </children>
-                        </system>
-                    </children>
-                </admin>
-            </resources>
-        </acl>
-    </adminhtml>
 </config>
